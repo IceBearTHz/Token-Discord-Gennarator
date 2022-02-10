@@ -1,28 +1,20 @@
-# Gen-Token-Discord
-Gennarator Token Discord Verified Email and Phone Number
-
-![s]()
-
-# Discord Token Generator
+# Discord Token Gennarator
+Token Gennarator Verify Phone number and Email. so fast 10 tokens in 1 min
 
 ## How to Install
 
 ```
-Click Install.bat and waiting!
+Install.bat
 ```
 
-## How to Run
+## How to Run in Python
 
 ```
-python main.py
+py main.py
 ```
-##  or
+
+## How to run in NodeJS
 
 ```
 node index.js
 ```
-
-# Thank you for using my tools
-> You can use it for free!
-
-# **Enjoin with your Token :)**
